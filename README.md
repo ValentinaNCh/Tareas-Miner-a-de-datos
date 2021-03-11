@@ -1,1 +1,1 @@
-# Tareas-Miner-a-de-datos
+# Tareas-Mineria de datos
